@@ -1,0 +1,20 @@
+h1, h2{
+	color :#fff182;
+}
+
+.jumbotron-home {
+	background: url('https://cdn.pixabay.com/photo/2015/12/08/00/29/northern-lights-1081752_960_720.jpg');
+	background-size: cover;
+	background-position: center center;
+	position: relative;
+
+}
+
+.simple-login-container {
+  margin-bottom: 0px;
+  padding-right: 150px;
+  padding-left: 150px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
